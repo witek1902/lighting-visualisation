@@ -1,4 +1,4 @@
-# Phong shading visualisation
+# C# (WPF) Phong shading visualisation
 ![Phong_visualisation](https://i.imgur.com/pHpk9dH.gif)
 
 ## About
